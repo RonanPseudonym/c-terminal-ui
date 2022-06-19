@@ -1,3 +1,8 @@
+/*
+This is for utils/error.h, but you can use it if you want.
+Ansi tables always come in handy, somehow.
+*/
+
 #ifndef UI_ANSI
 #define UI_ANSI
 

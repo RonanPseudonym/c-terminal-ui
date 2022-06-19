@@ -1,3 +1,8 @@
+/*
+This vector library exists primarily for the backend. You *can* use it, but it's not the point.
+That being said, it's a pretty solid vector system. It uses (void*)s, so it's extendable enough.
+*/
+
 #ifndef UI_VECTOR
 #define UI_VECTOR
 
